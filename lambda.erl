@@ -1,0 +1,2 @@
+-module(lambda).
+-export([FIXME/0]).
