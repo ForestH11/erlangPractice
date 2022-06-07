@@ -4,9 +4,7 @@ This is a basic Erlang Syntax Sampler. I wrote a simple erlang file for several 
 
 I wanted to gain a better understanding of erlang as a language, and of the functional programming paradigm in general
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/t0mdEowyYzw)
 
 # Development Environment
 
